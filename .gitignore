@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code Runner 临时文件
+tempCodeRunnerFile.py
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 课程 / 个人材料（不纳入开源仓库）
+计算机图形学上机大作业-2026.pdf
+提词卡.md
+课堂汇报展示脚本.md
+
+# 应用工程 / 导出文件
+*.vcraft.json
